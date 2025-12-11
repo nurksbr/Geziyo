@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Rotamda - Şehir Keşif ve Akıllı Rota Planlama",
-    description: "Şehirleri keşfedin, size özel rotalar oluşturun",
+    title: "Geziyo - Şehir Keşif & Akıllı Rota",
+    description: "Kişiselleştirilmiş rotalarla şehirleri keşfedin",
 };
 
 export default function RootLayout({

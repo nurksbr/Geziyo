@@ -1,4 +1,4 @@
-# Rotamda - Quick Start Guide
+# Geziyo - Quick Start Guide
 
 ## 🚀 Hızlı Başlangıç
 

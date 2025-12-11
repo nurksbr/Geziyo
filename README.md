@@ -1,4 +1,4 @@
-# Rotamda - Şehir Keşif & Akıllı Rota Uygulaması
+# Geziyo - Şehir Keşif & Akıllı Rota Uygulaması
 
 Kullanıcıların şehirleri keşfetmesini kolaylaştıran, kişiselleştirilmiş rota önerileri sunan, harita tabanlı bir web uygulaması.
 
@@ -46,7 +46,7 @@ npm install
 
 \`\`\`env
 # MongoDB
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/rotamda?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/geziyo?retryWrites=true&w=majority
 
 # Mapbox
 NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN=pk.your_mapbox_token_here
